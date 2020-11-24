@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'Kpin Bot'; 
+const BotName = 'KPIN BOT'; 
 const instagram = 'https://instagram.com/kev.infalih'; 
 const telegram = 'https://t.me/kepoon25; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
